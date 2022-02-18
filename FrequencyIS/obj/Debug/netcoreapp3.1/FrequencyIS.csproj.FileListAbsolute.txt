@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.exe
+C:\Users\ADMIN\source\repos\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.deps.json
+C:\Users\ADMIN\source\repos\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.dll
+C:\Users\ADMIN\source\repos\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.pdb
+C:\Users\ADMIN\source\repos\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.dll
+C:\Users\ADMIN\source\repos\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.pdb
+C:\Users\ADMIN\source\repos\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.genruntimeconfig.cache

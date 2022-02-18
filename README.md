@@ -44,9 +44,10 @@ C# PROGRAM TO CHECK WHETHER THE ENTERED NUMBER IS AN AMICABLE NUMBER OR NOT
 using System;
 
 namespace Amicablenumber
-{
+{ 
+
     class Amicablenumber
-    {
+    { 
         static void Main(string[] args)
         {
             int num1, num2, sum1=0, sum2=0;
@@ -55,6 +56,7 @@ namespace Amicablenumber
             num1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("\n Enter the second number:");
             num2 = Convert.ToInt32(Console.ReadLine());
+            
             for (int i = 1; i < num1; i++)
             {
                 if (num1 % i == 0)

@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.exe
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.deps.json
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.runtimeconfig.json
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.dll
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.pdb
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.dll
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.pdb
+C:\Users\ADMIN\source\repos\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.genruntimeconfig.cache

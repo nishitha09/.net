@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\obj\Debug\netcoreapp3.1\BINARY TRIANGLE.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\obj\Debug\netcoreapp3.1\BINARY TRIANGLE.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\obj\Debug\netcoreapp3.1\BINARY TRIANGLE.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\obj\Debug\netcoreapp3.1\BINARY TRIANGLE.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\bin\Debug\netcoreapp3.1\BINARY TRIANGLE.exe
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\bin\Debug\netcoreapp3.1\BINARY TRIANGLE.deps.json
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\bin\Debug\netcoreapp3.1\BINARY TRIANGLE.runtimeconfig.json
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\bin\Debug\netcoreapp3.1\BINARY TRIANGLE.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\bin\Debug\netcoreapp3.1\BINARY TRIANGLE.dll
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\bin\Debug\netcoreapp3.1\BINARY TRIANGLE.pdb
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\obj\Debug\netcoreapp3.1\BINARY TRIANGLE.dll
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\obj\Debug\netcoreapp3.1\BINARY TRIANGLE.pdb
+C:\Users\ADMIN\source\repos\BINARY TRIANGLE\obj\Debug\netcoreapp3.1\BINARY TRIANGLE.genruntimeconfig.cache

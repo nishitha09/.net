@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BINARY TRIANGLE/1.0.0": {
+        "runtime": {
+          "BINARY TRIANGLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BINARY TRIANGLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

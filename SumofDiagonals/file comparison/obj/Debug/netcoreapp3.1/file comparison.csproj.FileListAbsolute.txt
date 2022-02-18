@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\file comparison\bin\Debug\netcoreapp3.1\file comparison.exe
+C:\Users\ADMIN\source\repos\file comparison\bin\Debug\netcoreapp3.1\file comparison.deps.json
+C:\Users\ADMIN\source\repos\file comparison\bin\Debug\netcoreapp3.1\file comparison.runtimeconfig.json
+C:\Users\ADMIN\source\repos\file comparison\bin\Debug\netcoreapp3.1\file comparison.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\file comparison\bin\Debug\netcoreapp3.1\file comparison.dll
+C:\Users\ADMIN\source\repos\file comparison\bin\Debug\netcoreapp3.1\file comparison.pdb
+C:\Users\ADMIN\source\repos\file comparison\obj\Debug\netcoreapp3.1\file comparison.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\file comparison\obj\Debug\netcoreapp3.1\file comparison.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\file comparison\obj\Debug\netcoreapp3.1\file comparison.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\file comparison\obj\Debug\netcoreapp3.1\file comparison.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\file comparison\obj\Debug\netcoreapp3.1\file comparison.dll
+C:\Users\ADMIN\source\repos\file comparison\obj\Debug\netcoreapp3.1\file comparison.pdb
+C:\Users\ADMIN\source\repos\file comparison\obj\Debug\netcoreapp3.1\file comparison.genruntimeconfig.cache

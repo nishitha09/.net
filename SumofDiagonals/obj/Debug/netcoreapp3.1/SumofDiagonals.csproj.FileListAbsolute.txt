@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.exe
+C:\Users\ADMIN\source\repos\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.deps.json
+C:\Users\ADMIN\source\repos\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.dll
+C:\Users\ADMIN\source\repos\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.pdb
+C:\Users\ADMIN\source\repos\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.dll
+C:\Users\ADMIN\source\repos\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.pdb
+C:\Users\ADMIN\source\repos\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.genruntimeconfig.cache

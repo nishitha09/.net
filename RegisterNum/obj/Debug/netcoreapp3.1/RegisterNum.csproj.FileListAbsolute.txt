@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.exe
+C:\Users\ADMIN\source\repos\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.deps.json
+C:\Users\ADMIN\source\repos\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.runtimeconfig.json
+C:\Users\ADMIN\source\repos\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.dll
+C:\Users\ADMIN\source\repos\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.pdb
+C:\Users\ADMIN\source\repos\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.dll
+C:\Users\ADMIN\source\repos\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.pdb
+C:\Users\ADMIN\source\repos\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.genruntimeconfig.cache

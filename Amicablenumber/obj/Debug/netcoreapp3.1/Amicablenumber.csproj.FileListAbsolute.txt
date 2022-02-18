@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.exe
+C:\Users\ADMIN\source\repos\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.deps.json
+C:\Users\ADMIN\source\repos\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.dll
+C:\Users\ADMIN\source\repos\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.pdb
+C:\Users\ADMIN\source\repos\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.dll
+C:\Users\ADMIN\source\repos\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.pdb
+C:\Users\ADMIN\source\repos\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.genruntimeconfig.cache

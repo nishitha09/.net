@@ -245,16 +245,19 @@ namespace Box
         {
             get { return width * height * length; }
         }
+        
         public Box(float width, float height, float length)
         { 
             this.width = width;
             this.height = height;
             this.length = height;
             }
+        
         public static float operator +(Box box1, Box box2)
         {
             return box1.volume + box2.volume;
         }
+        
         public override string ToString()
         {
         return "box with width"+ width+", height" +height+"and length"+length;
@@ -263,13 +266,14 @@ namespace Box
 
 class operatoroverloading
     {
+    
     public static void Main()
 {
     Box box1 = new Box(10, 20, 30);
     Box box2 = new Box(25, 32, 15);
     Console.WriteLine("Volume of {0} is:{1}", box1, box1.volume);
-            Console.WriteLine("Volume of {0} is:{1}", box2, box2.volume);
-            Console.WriteLine("Volume after adding boxes: {0}", box1+box2);  
+    Console.WriteLine("Volume of {0} is:{1}", box2, box2.volume);
+    Console.WriteLine("Volume after adding boxes: {0}", box1+box2);  
       }
     }
 }

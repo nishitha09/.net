@@ -161,6 +161,7 @@ namespace Exercise
             }
             Calculate();
         }
+        
         private void Calculate()
         {
             average = total / 5;
@@ -175,7 +176,8 @@ namespace Exercise
             else
                 grade = "Pass class";
         }
-        public override void Display()
+       
+       public override void Display()
         {
             base.Display();
             Console.WriteLine("\n___MARKS DETAILS___\n");
@@ -187,7 +189,8 @@ namespace Exercise
             Console.WriteLine("Average  :" + average);
             Console.WriteLine("Grade   :" + grade);
         }
-        class Multilevel
+       
+       class Multilevel
         {
             public static void Main(string[] args)
             {

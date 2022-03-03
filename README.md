@@ -24,6 +24,8 @@ public class FibonacciExample
     }
 }
 
+OUTPUT:
+![image](https://user-images.githubusercontent.com/97939491/156514973-b5cecfd8-9756-4286-aa08-8f1cb17953d3.png)
 
 C# PROGRAM TO FIND PRIME NUMBER
 

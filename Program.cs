@@ -1,19 +1,18 @@
 ﻿using System;
-public class SumofDigits
+public class ReverseExample
 {
     public static void Main(string[] args)
     {
-        int n, sum = 0, m;
+        int n, reverse = 0, rem;
         Console.Write("Enter a number: ");
         n = int.Parse(Console.ReadLine());
-        while (n > 0)
+        while (n != 0)
         {
-            m = n % 10;
-            sum = sum + m;
-            n = n / 10;
+            rem = n % 10;
+            reverse = reverse * 10 + rem;
+            n /= 10;
         }
-        Console.Write("Sum is= " + sum);
+        Console.Write("Reversed Number: " + reverse);
     }
 }
-
 

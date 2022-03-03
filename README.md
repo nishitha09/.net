@@ -1,7 +1,6 @@
 # .net
 C# PROGRAM TO PRINT A BINARY TREE
 using System;
-
 namespace BINARY_TRIANGLE
 {
 
@@ -27,7 +26,7 @@ namespace BINARY_TRIANGLE
             Console.Write("\n");
         }
            
-    }
+      }
     }
 }
 
@@ -234,7 +233,6 @@ namespace Graycode
 
 C# PROGRAM TO CALCULATE VOLUME OF 2 BOXES AND FIND THE RESULTANT VOLUME AFTER ADDITION OF 2 BOXES BY IMPLEMENTING OPERATOR OVERLOADING 
 using System;
-
 namespace Box
 {
     
@@ -253,7 +251,7 @@ namespace Box
             this.width = width;
             this.height = height;
             this.length = height;
-            }
+         }
         
         public static float operator +(Box box1, Box box2)
         {

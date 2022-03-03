@@ -1,18 +1,24 @@
 ﻿using System;
-public class ReverseExample
+
+namespace Exercises
 {
+    class Armstrong
+    { 
     public static void Main(string[] args)
     {
-        int n, reverse = 0, rem;
-        Console.Write("Enter a number: ");
+        int n, r, sum = 0, temp;
+        Console.Write("Enter the number");
         n = int.Parse(Console.ReadLine());
-        while (n != 0)
+        temp = n;
+        while (n > 0)
         {
-            rem = n % 10;
-            reverse = reverse * 10 + rem;
-            n /= 10;
+            r = n % 10;
+            sum = sum + (r * r * r);
+            n = n / 10;
         }
-        Console.Write("Reversed Number: " + reverse);
+        if (temp == sum)
+            Console.Write("Armstrong Number");
+        else
+            Console.Write("Not a Armstrong Number");
     }
 }
-

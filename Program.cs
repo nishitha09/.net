@@ -1,49 +1,18 @@
-﻿using System;
-
-namespace Exercises
+﻿using System;  
+  public class FibonacciExample
 {
-    class ExceptionHandling
+    public static void Main(string[] args)
     {
-        static void Main(string[] args)
+        int n1 = 0, n2 = 1, n3, i, number;
+        Console.Write("Enter the number of elements: ");
+        number = int.Parse(Console.ReadLine());
+        Console.Write(n1 + " " + n2 + " ");
+        for (i = 2; i < number; ++i)    
         {
-            Age a = new Age();
-            try
-            {
-                a.displayAge();
-            }
-            catch(AgeIsNegativeException e)
-            {
-                Console.WriteLine("AgeIsNegativeException:{0}", e.Message);
-            }
-            finally
-            {
-                Console.WriteLine("Execution of finally block is done");
-
-            }
-            }
-           }
-    }
-public class AgeIsNegativeException : Exception
-{
-    public AgeIsNegativeException (string message) : base(message)
-    {
-    }
-}
-public class Age
-{ 
-    int age = -5;
-    public void displayAge()
-    {
-        if (age < 0)
-        {
-            throw (new AgeIsNegativeException("Age cannot be negative"));
-        }
-        else
-        {
-            Console.WriteLine("Age is:{0}", age);
+            n3 = n1 + n2;
+            Console.Write(n3 + " ");
+            n1 = n2;
+            n2 = n3;
         }
     }
 }
-
-
-

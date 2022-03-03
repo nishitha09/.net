@@ -110,6 +110,49 @@ public class FactorialExample
 
 
 
+
+
+
+
+
+C# PROGRAM TO FIND SUM OF DIGITS
+
+using System;
+
+public class SumofDigits
+{
+    
+    public static void Main(string[] args)
+    {
+        
+        int n, sum = 0, m;
+        Console.Write("Enter a number: ");
+        n = int.Parse(Console.ReadLine());
+        while (n > 0)
+        {
+            m = n % 10;
+            sum = sum + m;
+            n = n / 10;
+        }
+        Console.Write("Sum is= " + sum);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 C# PROGRAM TO PRINT A BINARY TREE
 
 using System;

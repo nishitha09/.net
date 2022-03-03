@@ -1,15 +1,19 @@
 ﻿using System;
-public class FactorialExample
+public class SumofDigits
 {
     public static void Main(string[] args)
     {
-        int i, fact = 1, number;
-        Console.Write("Enter any Number: ");
-        number = int.Parse(Console.ReadLine());
-        for (i = 1; i <= number; i++)
+        int n, sum = 0, m;
+        Console.Write("Enter a number: ");
+        n = int.Parse(Console.ReadLine());
+        while (n > 0)
         {
-            fact = fact * i;
+            m = n % 10;
+            sum = sum + m;
+            n = n / 10;
         }
-        Console.Write("Factorial of " + number + " is: " + fact);
+        Console.Write("Sum is= " + sum);
     }
 }
+
+

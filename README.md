@@ -57,7 +57,13 @@ public class PrimeNumberExample
     }
 }
 
-C# PROGRAM TO FIND A PALINDROME
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/156700765-ba32d57e-70a6-4012-8f65-040a78907a0e.png)
+
+![image](https://user-images.githubusercontent.com/97939491/156700828-3a3d7730-1f29-4a26-baa8-d31cd93e2dce.png)
+
+C# PROGRAM TO FIND A PALINDROME:
 
 using System;
 
@@ -84,6 +90,12 @@ public class PalindromeExample
             Console.Write("Number is not Palindrome");
     }
 }
+
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/156700991-6b8c44c7-2871-45e9-8b69-576a0247b4a1.png)
+
+![image](https://user-images.githubusercontent.com/97939491/156701067-672a44e4-9b31-49cc-b2d9-dc989034690b.png)
 
 C# PROGRAM TO FIND FACTORIAL OF NUMBER
 

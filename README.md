@@ -517,7 +517,9 @@ namespace Exercises
    
    class Delegates
     {
+        
         delegate string UppercaseDelegate(string input);
+       
         static string UppercaseFirst(string input)
         {
             Char[] buffer = input.ToCharArray();

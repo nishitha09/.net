@@ -505,7 +505,8 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157177382-c9c0719f-d399-46ed-b9af-974c1bad1206.png)
 
-C# PROGRAM TO IMPLEMENT PRINCIPLES OF DELEGATES 
+C# PROGRAM TO IMPLEMENT PRINCIPLES OF DELEGATES: 
+
 using System;
 
 namespace Exercises
@@ -545,7 +546,9 @@ namespace Exercises
     }
 }
      
+OUTPUT:
 
+![image](https://user-images.githubusercontent.com/97939491/157178189-77b54953-996f-43ac-9e80-f86f9e1e3cb1.png)
 
 
 using System;

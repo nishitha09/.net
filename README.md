@@ -190,7 +190,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157170234-ad3ca513-c157-4bd5-9963-f5e7ea6a70a7.png)
 
-C# PROGRAM TO REVERSE THE NUMBER
+C# PROGRAM TO REVERSE THE NUMBER:
 
 using System;
 
@@ -217,7 +217,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157172498-e5a79ea9-557f-4575-a211-6ae8542e23f7.png)
 
-C# PROGRAM TO PRINT A BINARY TREE
+C# PROGRAM TO PRINT A BINARY TREE:
 
 using System;
 
@@ -254,7 +254,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157173911-24f1ecac-ab21-4456-b973-b68b65f15f2b.png)
 
-C# PROGRAM TO CHECK WHETHER THE ENTERED NUMBER IS AN AMICABLE NUMBER OR NOT
+C# PROGRAM TO CHECK WHETHER THE ENTERED NUMBER IS AN AMICABLE NUMBER OR NOT:
 
 using System;
 
@@ -306,7 +306,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157174878-c47f8be4-15c1-4e04-9954-ae6b9d041275.png)
 
-C# PROGRAM TO ILLUSTRATE MULTILEVEL INHERITANCE WITH VIRTUAL METHODS
+C# PROGRAM TO ILLUSTRATE MULTILEVEL INHERITANCE WITH VIRTUAL METHODS:
 
 using System;
 namespace Exercise
@@ -424,7 +424,7 @@ OUTPUT:
 ![image](https://user-images.githubusercontent.com/97939491/157175274-ecb89560-f05c-4f58-ab4d-faff252c56b0.png)
 
 
-C# PROGRAM TO CREATE A GRAY CODE 
+C# PROGRAM TO CREATE A GRAY CODE: 
 
 using System;
 

@@ -254,15 +254,8 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157173911-24f1ecac-ab21-4456-b973-b68b65f15f2b.png)
 
-
-
-
-
-
-
-
-
 C# PROGRAM TO CHECK WHETHER THE ENTERED NUMBER IS AN AMICABLE NUMBER OR NOT
+
 using System;
 
 namespace Amicablenumber
@@ -307,9 +300,11 @@ namespace Amicablenumber
     }
 }
 
+OUTPUT:
 
+![image](https://user-images.githubusercontent.com/97939491/157174833-3e772067-9cae-4567-8905-5e00df29dc88.png)
 
-
+![image](https://user-images.githubusercontent.com/97939491/157174878-c47f8be4-15c1-4e04-9954-ae6b9d041275.png)
 
 
 

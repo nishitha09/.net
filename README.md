@@ -188,7 +188,7 @@ public class SumofDigits
 
 OUTPUT:
 
-![image](https://user-images.githubusercontent.com/97939491/157169418-a0cc5db1-76ad-4f92-b145-806379fcacc1.png)
+![image](https://user-images.githubusercontent.com/97939491/157170234-ad3ca513-c157-4bd5-9963-f5e7ea6a70a7.png)
 
 C# PROGRAM TO REVERSE THE NUMBER
 

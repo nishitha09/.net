@@ -250,6 +250,9 @@ namespace BINARY_TRIANGLE
     }
 }
 
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/157173911-24f1ecac-ab21-4456-b973-b68b65f15f2b.png)
 
 
 

@@ -121,7 +121,8 @@ public class FactorialExample
 
 OUTPUT:
 
-![image](https://user-images.githubusercontent.com/97939491/157168659-12014c71-7305-49ef-9810-c52ae2fd16b1.png
+![image](https://user-images.githubusercontent.com/97939491/157168995-d778c4d9-6aa7-4c2e-8557-53a6010bf23c.png)
+
 
 C# PROGRAM TO FIND ARMSTRONG NUMBER:
 

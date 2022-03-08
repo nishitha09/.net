@@ -306,9 +306,8 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157174878-c47f8be4-15c1-4e04-9954-ae6b9d041275.png)
 
-
-
 C# PROGRAM TO ILLUSTRATE MULTILEVEL INHERITANCE WITH VIRTUAL METHODS
+
 using System;
 namespace Exercise
 {
@@ -420,6 +419,9 @@ namespace Exercise
     }
 }
 
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/157175274-ecb89560-f05c-4f58-ab4d-faff252c56b0.png)
 
 
 C# PROGRAM TO CREATE A GRAY CODE 

@@ -425,6 +425,7 @@ OUTPUT:
 
 
 C# PROGRAM TO CREATE A GRAY CODE 
+
 using System;
 
 namespace Graycode
@@ -448,10 +449,12 @@ namespace Graycode
     }
 }
 
+OUTPUT:
 
-
+![image](https://user-images.githubusercontent.com/97939491/157175573-324a6fb8-48ae-4cbf-bb68-7bcd79e1c3de.png)
 
 C# PROGRAM TO CALCULATE VOLUME OF 2 BOXES AND FIND THE RESULTANT VOLUME AFTER ADDITION OF 2 BOXES BY IMPLEMENTING OPERATOR OVERLOADING 
+
 using System;
 namespace Box
 {

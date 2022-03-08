@@ -279,6 +279,7 @@ namespace Amicablenumber
                     sum1+= i;
                 }
             }
+            
             for (int i = 1; i < num2; i++)
             {
                 if (num2 % i == 0)
@@ -309,6 +310,7 @@ OUTPUT:
 C# PROGRAM TO ILLUSTRATE MULTILEVEL INHERITANCE WITH VIRTUAL METHODS:
 
 using System;
+
 namespace Exercise
 {
     

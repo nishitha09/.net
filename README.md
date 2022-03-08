@@ -119,7 +119,11 @@ public class FactorialExample
     }
 }
 
-c# program to find armstrong number
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/157168659-12014c71-7305-49ef-9810-c52ae2fd16b1.png
+
+C# PROGRAM TO FIND ARMSTRONG NUMBER:
 
 using System;
 
@@ -158,7 +162,7 @@ namespace Exercises
 
 
 
-C# PROGRAM TO FIND SUM OF DIGITS
+C# PROGRAM TO FIND SUM OF DIGITS:
 
 using System;
 

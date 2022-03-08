@@ -186,7 +186,11 @@ public class SumofDigits
     }
 }
 
-C# PROGRAM TO REVERSE HE NUMBER
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/157169418-a0cc5db1-76ad-4f92-b145-806379fcacc1.png)
+
+C# PROGRAM TO REVERSE THE NUMBER
 
 using System;
 

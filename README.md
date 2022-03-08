@@ -97,7 +97,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/156701067-672a44e4-9b31-49cc-b2d9-dc989034690b.png)
 
-C# PROGRAM TO FIND FACTORIAL OF NUMBER
+C# PROGRAM TO FIND FACTORIAL OF NUMBER:
 
 using System;
 

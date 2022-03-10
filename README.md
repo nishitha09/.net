@@ -769,7 +769,6 @@ C# PROGRAM TO CREATE A FILE, CHECK THE EXISTENCE OF A FILE AND READ THE CONTENTS
 using System;
 using System.IO;
 
-
 namespace Exercises
 {
    
@@ -777,9 +776,11 @@ namespace Exercises
     {
         public static void Main()
         {
+            
             string fileName;
             while (true)
             {
+                
                 Console.WriteLine("\n___Menu___\n");
                 Console.WriteLine("\n 1.Create a file");
                 Console.WriteLine("\n 2.Existence of file");

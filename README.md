@@ -789,6 +789,7 @@ namespace Exercises
                 int ch = int.Parse(Console.ReadLine());
                 switch (ch)
                 {
+                    
                     case 1:
                         Console.Write("\n Enter the file name to create:");
                         fileName = Console.ReadLine();
@@ -800,6 +801,7 @@ namespace Exercises
                         }
                         Console.WriteLine("File is created");
                         break;
+                    
                     case 2:
                         Console.Write("Enter the file name to read the contentrs :\n");
                         fileName = Console.ReadLine();
@@ -812,6 +814,7 @@ namespace Exercises
                             Console.WriteLine("File doesnot exist in the current directory!");
                         }
                         break;
+                    
                     case 3:
                         Console.Write("Enter the fileName to read the contents:\n");
         
@@ -834,6 +837,7 @@ namespace Exercises
                             Console.WriteLine("File doesnot exists");
                         }
                         break;
+                    
                     case 4:
                         Console.WriteLine("\n Existing___");
                    return;
@@ -846,6 +850,9 @@ namespace Exercises
     }
 }
 
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/157631434-eb44e9bb-5923-4cdd-bbcc-239e2231ff5b.png)
 
 
 C# PROGRAM TO PERFORM FILE COMPARISION

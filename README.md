@@ -1016,7 +1016,8 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157633352-ed317f19-f7ee-470c-8332-dea7694224f5.png)
 
-C# PROGRAM TO IMPLEMENT THREADPOOL
+C# PROGRAM TO IMPLEMENT THREADPOOL:
+
 using System;
 using System.Threading;
 
@@ -1058,6 +1059,9 @@ namespace Exercises
     }
 }
 
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/157634043-471ef298-393c-4b9e-b34a-2ddf8376299f.png)
 
 C# PROGRAM       
 

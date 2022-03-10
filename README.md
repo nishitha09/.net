@@ -560,7 +560,7 @@ OUTPUT:
 ![image](https://user-images.githubusercontent.com/97939491/157178189-77b54953-996f-43ac-9e80-f86f9e1e3cb1.png)
 
 
-Static constructor
+Program Static constructor:
 
 using System;
 
@@ -596,8 +596,9 @@ namespace Exercises
     }
 }
 
+OUTPUT:
 
-
+![image](https://user-images.githubusercontent.com/97939491/157628250-78a42c0a-3212-40cf-82ce-35f27cb31ccf.png)
 
 C# PROGRAM TO FIND THE FREQUENCY OF THE WORD "IS" IN A GIVEN SENTENCE
 using System;

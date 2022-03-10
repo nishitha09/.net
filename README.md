@@ -700,7 +700,8 @@ namespace Exercises
  ![image](https://user-images.githubusercontent.com/97939491/157629583-432953d3-5f26-4532-a44c-a5ddc7ffa8ca.png)
 
  
-C# PROGRAM TO FIND THE SUM OF VALUES ON DIAGONAL OF THE MATRIX
+C# PROGRAM TO FIND THE SUM OF VALUES ON DIAGONAL OF THE MATRIX:
+
 using System;
 
 namespace Exercises
@@ -710,6 +711,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
+            
             int MaxRow, MaxCol, Sum = 0;
             int[,] Matrix;
             Console.WriteLine("\n ___SUM OF DIAGONAL OF A MATRIX___\n");
@@ -719,6 +721,7 @@ namespace Exercises
             MaxCol = Convert.ToInt32(Console.ReadLine());
             if (MaxRow != MaxCol)
             {
+                
                 Console.WriteLine("\n The Dimensions entered are not a square matrix");
                 Console.WriteLine("\n Exiting the program");
                 return;
@@ -755,7 +758,10 @@ namespace Exercises
     }
 }   
 
+OUTPUT:
 
+![image](https://user-images.githubusercontent.com/97939491/157630164-e78f300d-4f6d-48a7-a8af-562c2dfe88f4.png)
+![image](https://user-images.githubusercontent.com/97939491/157630256-fd02629d-1e90-4168-9281-28a51794712c.png)
 
 
 C# PROGRAM TO CREATE A FILE, CHECK THE EXISTENCE OF A FILE AND READ THE CNTENTS OF THE FILE

@@ -761,10 +761,11 @@ namespace Exercises
 OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157630164-e78f300d-4f6d-48a7-a8af-562c2dfe88f4.png)
+
 ![image](https://user-images.githubusercontent.com/97939491/157630256-fd02629d-1e90-4168-9281-28a51794712c.png)
 
+C# PROGRAM TO CREATE A FILE, CHECK THE EXISTENCE OF A FILE AND READ THE CONTENTS OF THE FILE:
 
-C# PROGRAM TO CREATE A FILE, CHECK THE EXISTENCE OF A FILE AND READ THE CNTENTS OF THE FILE
 using System;
 using System.IO;
 

@@ -600,7 +600,8 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157628250-78a42c0a-3212-40cf-82ce-35f27cb31ccf.png)
 
-C# PROGRAM TO FIND THE FREQUENCY OF THE WORD "IS" IN A GIVEN SENTENCE
+C# PROGRAM TO FIND THE FREQUENCY OF THE WORD "IS" IN A GIVEN SENTENCE:
+
 using System;
 
 namespace FrequencyIS
@@ -631,7 +632,9 @@ namespace FrequencyIS
     }
 }
 
+OUTPUT:
 
+![image](https://user-images.githubusercontent.com/97939491/157628821-84b14d93-ab25-4cbb-a87d-445f5523981d.png)
 
 
 C# PROGRAM THAT BENCHMARKS 2D,JAGGED ARRAY ALLOCATION

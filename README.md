@@ -1070,6 +1070,7 @@ using System;
 
 namespace Exercises
 {
+    
     class ExceptionHandling
     {
         static void Main(string[] args)
@@ -1115,4 +1116,7 @@ public class Age
     }
 }
 
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/157636466-559ee82e-5885-4f56-b2b4-ca2f90e62f02.png)
 

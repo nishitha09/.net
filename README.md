@@ -637,7 +637,8 @@ OUTPUT:
 ![image](https://user-images.githubusercontent.com/97939491/157628821-84b14d93-ab25-4cbb-a87d-445f5523981d.png)
 
 
-C# PROGRAM THAT BENCHMARKS 2D,JAGGED ARRAY ALLOCATION
+C# PROGRAM THAT BENCHMARKS 2D,JAGGED ARRAY ALLOCATION:
+
 using System;
 using System.Diagnostics;
 
@@ -694,7 +695,11 @@ namespace Exercises
 }
 }
           
-          
+ OUTPUT:
+ 
+ ![image](https://user-images.githubusercontent.com/97939491/157629583-432953d3-5f26-4532-a44c-a5ddc7ffa8ca.png)
+
+ 
 C# PROGRAM TO FIND THE SUM OF VALUES ON DIAGONAL OF THE MATRIX
 using System;
 

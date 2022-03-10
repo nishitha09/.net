@@ -857,9 +857,9 @@ OUTPUT:
 
 
 C# PROGRAM TO PERFORM FILE COMPARISION
+
 using System;
 using System.IO;
-
 
 namespace Exercises
 {
@@ -943,11 +943,12 @@ namespace Exercises
     }
 }
     
-       
+  OUTPUT:
 
 
 
-C# PROGRAM TO IMPLEMENT ICOMPARABLE INTERFACE 
+C# PROGRAM TO IMPLEMENT ICOMPARABLE INTERFACE:
+
 using System;
 
 namespace Exercises
@@ -1011,7 +1012,9 @@ namespace Exercises
     }
 }
 
+OUTPUT:
 
+![image](https://user-images.githubusercontent.com/97939491/157633352-ed317f19-f7ee-470c-8332-dea7694224f5.png)
 
 C# PROGRAM TO IMPLEMENT THREADPOOL
 using System;

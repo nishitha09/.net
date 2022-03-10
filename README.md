@@ -560,6 +560,8 @@ OUTPUT:
 ![image](https://user-images.githubusercontent.com/97939491/157178189-77b54953-996f-43ac-9e80-f86f9e1e3cb1.png)
 
 
+Static constructor
+
 using System;
 
 namespace Exercises
@@ -567,21 +569,25 @@ namespace Exercises
    
    class RegisterNum
     {
+        
         int regNo;
         static int startNum;
         static RegisterNum()
         {
             startNum = 20210000;
             }
+        
         RegisterNum()
         {
             regNo=++startNum;
         }
+        
         public static void Main(string[] args)
         {
            
            for (int i = 0; i < 100; i++)
             {
+                
                 RegisterNum Student = new RegisterNum();
                 Console.WriteLine("Student{0}:{1}", i+1, Student.regNo);
 

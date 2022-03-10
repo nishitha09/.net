@@ -1094,7 +1094,6 @@ namespace Exercises
 
 public class AgeIsNegativeException : Exception
 {
-    
     public AgeIsNegativeException (string message) : base(message)
     {
     }
@@ -1102,9 +1101,11 @@ public class AgeIsNegativeException : Exception
 
 public class Age
 { 
+    
     int age = -5;
     public void displayAge()
     {
+        
         if (age < 0)
         {
             throw (new AgeIsNegativeException("Age cannot be negative"));

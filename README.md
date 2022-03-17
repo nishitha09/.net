@@ -1145,3 +1145,7 @@ namespace Program1
             }
         }
     }
+
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/158756651-32697d41-5b2f-4367-81a3-c4949ee89043.png)

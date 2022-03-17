@@ -553,8 +553,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157178189-77b54953-996f-43ac-9e80-f86f9e1e3cb1.png)
 
-
-Program Static constructor:
+C# PROGRAM TO GENERATE REGISTER NUMBER AUTOMATICALLY FOR 100 STUDENTS USING STATIC CONSTRUCTOR;
 
 using System;
 

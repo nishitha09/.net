@@ -1,0 +1,9 @@
+E:\.NET PROGRAMS\Program1\obj\Debug\Program1.Form1.resources
+E:\.NET PROGRAMS\Program1\obj\Debug\Program1.Properties.Resources.resources
+E:\.NET PROGRAMS\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+E:\.NET PROGRAMS\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+E:\.NET PROGRAMS\Program1\bin\Debug\Program1.exe.config
+E:\.NET PROGRAMS\Program1\bin\Debug\Program1.exe
+E:\.NET PROGRAMS\Program1\bin\Debug\Program1.pdb
+E:\.NET PROGRAMS\Program1\obj\Debug\Program1.exe
+E:\.NET PROGRAMS\Program1\obj\Debug\Program1.pdb

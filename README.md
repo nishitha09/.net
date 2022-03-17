@@ -152,8 +152,9 @@ public class Armstrong
     }
 }
 
+OUTPUT:
 
-
+![image](https://user-images.githubusercontent.com/97939491/158744855-2615989f-c769-43f9-8621-ee4464901285.png)
 
 
 

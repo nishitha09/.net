@@ -63,7 +63,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/156700828-3a3d7730-1f29-4a26-baa8-d31cd93e2dce.png)
 
-C# PROGRAM TO FIND A PALINDROME:
+C# PROGRAM TO CHECK WETHER THE GIVEN ELEMENT IS PALINDROME OR NOT:
 
 using System;
 

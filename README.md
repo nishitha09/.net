@@ -123,7 +123,6 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157168995-d778c4d9-6aa7-4c2e-8557-53a6010bf23c.png)
 
-
 C# PROGRAM TO CHECK WETHER THE GIVEN ELEMENT IS ARMSTRONG OR NOT:
 
 using System;
@@ -185,7 +184,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157170234-ad3ca513-c157-4bd5-9963-f5e7ea6a70a7.png)
 
-C# PROGRAM TO REVERSE THE NUMBER:
+C# PROGRAM TO REVERSE A GIVEN NUMBER:
 
 using System;
 

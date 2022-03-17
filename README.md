@@ -211,7 +211,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157172498-e5a79ea9-557f-4575-a211-6ae8542e23f7.png)
 
-C# PROGRAM TO PRINT A BINARY TREE:
+C# PROGRAM TO PRINT A BINARY TRIANGLE:
 
 using System;
 

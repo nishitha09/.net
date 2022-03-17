@@ -124,15 +124,17 @@ OUTPUT:
 ![image](https://user-images.githubusercontent.com/97939491/157168995-d778c4d9-6aa7-4c2e-8557-53a6010bf23c.png)
 
 
-C# PROGRAM TO FIND ARMSTRONG NUMBER:
+C# PROGRAM TO CHECK WETHER THE GIVEN ELEMENT IS ARMSTRONG OR NOT:
 
 using System;
 
 public class Armstrong
 {
+    
     public static void Main(string[] args)
     {
-        int n, r, sum = 0, temp;
+        i
+        nt n, r, sum = 0, temp;
         Console.Write("Enter the number:");
         n = int.Parse(Console.ReadLine());
         temp = n;
@@ -142,6 +144,7 @@ public class Armstrong
             sum = sum + (r * r * r);
             n = n / 10;
         }
+        
         if (temp == sum)
             Console.Write("Armstrong Number");
         else

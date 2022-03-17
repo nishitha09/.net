@@ -419,7 +419,6 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157175274-ecb89560-f05c-4f58-ab4d-faff252c56b0.png)
 
-
 C# PROGRAM TO CREATE A GRAY CODE: 
 
 using System;
@@ -553,7 +552,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157178189-77b54953-996f-43ac-9e80-f86f9e1e3cb1.png)
 
-C# PROGRAM TO GENERATE REGISTER NUMBER AUTOMATICALLY FOR 100 STUDENTS USING STATIC CONSTRUCTOR;
+C# PROGRAM TO GENERATE REGISTER NUMBER AUTOMATICALLY FOR 100 STUDENTS USING STATIC CONSTRUCTOR:
 
 using System;
 
@@ -848,94 +847,9 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157631434-eb44e9bb-5923-4cdd-bbcc-239e2231ff5b.png)
 
+C# PROGRAM TO PERFORM FILE COMPARISION:
 
-C# PROGRAM TO PERFORM FILE COMPARISION
 
-using System;
-using System.IO;
-
-namespace Exercises
-{
-    
-    class FlieRead
-    {
-        
-        public static void Main()
-        {
-            string fileName;
-            
-            while (true)
-            {
-                Console.WriteLine("\n___Menu___\n");
-                Console.WriteLine("\n 1.Create a file");
-                Console.WriteLine("\n 2.Existence of file");
-                Console.WriteLine("\n 3.Read the content of the file");
-                Console.WriteLine("\n 4.Exit");
-                Console.WriteLine("\n Enter your choice:");
-                int ch = int.Parse(Console.ReadLine());
-                switch (ch)
-                {
-                    
-                    case 1:
-                        Console.Write("\n Enter the file name to create:");
-                        fileName = Console.ReadLine();
-                        Console.WriteLine("\n Write the contents to the file\n");
-                        string r = Console.ReadLine();
-                        using (StreamWriter fileStr = File.CreateText(fileName))
-                        {
-                            fileStr.WriteLine(r);
-                        }
-                        Console.WriteLine("File is created");
-                        break;
-                    
-                    case 2:
-                        Console.Write("Enter the file name to read the contentrs :\n");
-                        fileName = Console.ReadLine();
-                        if (File.Exists(fileName))
-                        {
-                            Console.WriteLine("File exist");
-                        }
-                        else
-                        {
-                            Console.WriteLine("File doesnot exist in the current directory!");
-                        }
-                        break;
-                    
-                    case 3:
-                        Console.Write("Enter the fileName to read the contents:\n");
-        
-                             fileName = Console.ReadLine();
-                        if (File.Exists(fileName))
-                        {
-                            using (StreamReader sr = File.OpenText(fileName))
-                            {
-                                string s = "";
-                                Console.WriteLine("Here is the content of file:");
-                                while ((s = sr.ReadLine()) != null)
-                                {
-                                    Console.WriteLine(s);
-                                }
-                                Console.WriteLine("");
-                            }
-                        }
-                        else
-                        {
-                            Console.WriteLine("File doesnot exists");
-                        }
-                        break;
-                    
-                    case 4:
-                        Console.WriteLine("\n Existing___");
-                   return;
-                    default:
-                        Console.WriteLine("\n Invalid choice");
-                        break;
-                }
-            }
-        }
-    }
-}
-    
   OUTPUT:
 
 
@@ -1057,7 +971,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/157634043-471ef298-393c-4b9e-b34a-2ddf8376299f.png)
 
-C# PROGRAM       
+C# PROGRAM TO DEMONSTRATE ERROR HANDLING USING TRY, CATCH AND FINALLY BLOCK:      
 
 using System;
 

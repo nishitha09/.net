@@ -156,11 +156,7 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/158744855-2615989f-c769-43f9-8621-ee4464901285.png)
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/97939491/158744916-96a63f7a-e586-4230-9594-fd5539134d29.png)
 
 C# PROGRAM TO FIND SUM OF DIGITS:
 

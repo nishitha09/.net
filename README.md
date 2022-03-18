@@ -1249,3 +1249,5 @@ namespace Exercises
 OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/158943481-040fa1ae-10bb-4b91-a490-955541ecbfe8.png)
+
+![image](https://user-images.githubusercontent.com/97939491/158943608-ad510526-0bb6-4353-b1bd-13be31fb5bc2.png)

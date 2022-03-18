@@ -1,0 +1,10 @@
+E:\.NET PROGRAMS\Program4\bin\Debug\Program4.exe.config
+E:\.NET PROGRAMS\Program4\bin\Debug\Program4.exe
+E:\.NET PROGRAMS\Program4\bin\Debug\Program4.pdb
+E:\.NET PROGRAMS\Program4\obj\Debug\Program4.csprojAssemblyReference.cache
+E:\.NET PROGRAMS\Program4\obj\Debug\Program4.Form1.resources
+E:\.NET PROGRAMS\Program4\obj\Debug\Program4.Properties.Resources.resources
+E:\.NET PROGRAMS\Program4\obj\Debug\Program4.csproj.GenerateResource.cache
+E:\.NET PROGRAMS\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+E:\.NET PROGRAMS\Program4\obj\Debug\Program4.exe
+E:\.NET PROGRAMS\Program4\obj\Debug\Program4.pdb

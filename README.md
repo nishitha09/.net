@@ -1165,7 +1165,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Program3
-
 {
     
     public partial class Form1 : Form
@@ -1213,3 +1212,5 @@ namespace Program3
 OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/158940632-05116909-62d9-4132-b953-43f21915e7f6.png)
+
+![image](https://user-images.githubusercontent.com/97939491/158940885-a2ff2c85-ba96-44d2-ba57-26bd98f28205.png)

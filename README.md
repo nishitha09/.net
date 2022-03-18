@@ -1248,3 +1248,4 @@ namespace Exercises
 
 OUTPUT:
 
+![image](https://user-images.githubusercontent.com/97939491/158943481-040fa1ae-10bb-4b91-a490-955541ecbfe8.png)

@@ -1220,6 +1220,16 @@ OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/97939491/158945410-080da55b-f8a0-4b33-87a6-c65b07ec2010.png)
 
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/158954823-ad674bf7-fac6-4c85-af08-bf7f8c3f77bd.png)
+
+![image](https://user-images.githubusercontent.com/97939491/158954893-6d325e92-8b9f-41c9-8807-c87226be2813.png)
+
+![image](https://user-images.githubusercontent.com/97939491/158954955-01bae444-d05d-4d35-b783-3ebd696dcd77.png)
+
+![image](https://user-images.githubusercontent.com/97939491/158955019-91683848-6edd-4027-950d-9b5d7961bd64.png)
+
 
 Program4:
 

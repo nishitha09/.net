@@ -1255,6 +1255,6 @@ namespace Exercises
 
 OUTPUT:
 
-![image](https://user-images.githubusercontent.com/97939491/158943481-040fa1ae-10bb-4b91-a490-955541ecbfe8.png)
+![image](https://user-images.githubusercontent.com/97939491/158945631-46bf8924-84e3-48c4-8bdb-6bb9b9ba04ef.png)
 
-![image](https://user-images.githubusercontent.com/97939491/158943608-ad510526-0bb6-4353-b1bd-13be31fb5bc2.png)
+![image](https://user-images.githubusercontent.com/97939491/158945680-a23dc33c-7e60-41bd-bdca-f6a1674b3a40.png)

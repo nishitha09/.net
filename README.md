@@ -1212,6 +1212,13 @@ namespace Program3
 
 OUTPUT:
 
+![image](https://user-images.githubusercontent.com/97939491/158945122-4d055abe-b3ab-4134-89af-b07d2ee0561a.png)
+
+![image](https://user-images.githubusercontent.com/97939491/158945187-5b856927-e8fd-4850-ba5e-dcb035d45c46.png)
+
+![image](https://user-images.githubusercontent.com/97939491/158945250-9e4badbd-5458-472e-a09f-cc1d8e5ead0b.png)
+
+![image](https://user-images.githubusercontent.com/97939491/158945410-080da55b-f8a0-4b33-87a6-c65b07ec2010.png)
 
 
 Program4:

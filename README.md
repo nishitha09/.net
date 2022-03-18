@@ -1148,9 +1148,10 @@ namespace Program1
 
 OUTPUT:
 
-![image](https://user-images.githubusercontent.com/97939491/158757452-103aec8c-85db-41ae-8df3-33378fc203dc.png)
+![image](https://user-images.githubusercontent.com/97939491/158944604-d929a499-1284-4eb0-ac82-effd7a061b6d.png)
 
-![image](https://user-images.githubusercontent.com/97939491/158757602-255f67d5-a6a2-4775-bf9d-7205e9273471.png)
+![image](https://user-images.githubusercontent.com/97939491/158944691-ff771af2-3026-462b-a888-a162edd4b584.png)
+
 
 Program3:
 

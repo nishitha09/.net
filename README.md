@@ -1258,3 +1258,49 @@ OUTPUT:
 ![image](https://user-images.githubusercontent.com/97939491/158945631-46bf8924-84e3-48c4-8bdb-6bb9b9ba04ef.png)
 
 ![image](https://user-images.githubusercontent.com/97939491/158945680-a23dc33c-7e60-41bd-bdca-f6a1674b3a40.png)
+
+Program5:
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Program5
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+            timer1.Start();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+                System.Timers.Timer timer = new System.Timers.Timer();
+                timer.Interval = 1000;//1s
+                timer.Elapsed += Timer_Elapsed;
+                timer.Start();
+            }
+            private void Timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
+            {
+                circularProgressBar1.Invoke((MethodInvoker)delegate
+                {
+                    circularProgressBar1.Text = DateTime.Now.ToString("hh:mm:ss");
+                    circularProgressBar1.SubscriptText = DateTime.Now.ToString("tt");//AM or PM
+                });
+            }
+        }
+    }
+
+
+ OUTPUT:
+ 
+ ![image](https://user-images.githubusercontent.com/97939491/158948205-f82ebd8a-ce2f-45ea-90c1-6f20cf734935.png)
+

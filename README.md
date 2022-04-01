@@ -1433,5 +1433,8 @@ namespace Program6
     }
 }
 
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/97939491/161212794-9a209a4a-8da3-4ae7-bfed-448fe04672ca.png)
 
 
